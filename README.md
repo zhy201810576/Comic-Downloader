@@ -6,6 +6,7 @@
 <h3 align="center">Comic-Downloader - 网络漫画下载器</h3>
 
 <div>
+
 ![GitHub language count](https://img.shields.io/github/languages/count/zhy201810576/Comic-DownloaderComic-Downloader)
 ![GitHub top language](https://img.shields.io/github/languages/top/zhy201810576/Comic-Downloader)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zhy201810576/Comic-Downloader)
@@ -13,6 +14,7 @@
 ![GitHub](https://img.shields.io/github/license/zhy201810576/Comic-Downloader)
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/zhy201810576/Comic-Downloader?include_prereleases)
 ![GitHub Platform & Version Support](https://img.shields.io/badge/platform-Windows64-lightgrey)
+
 </div>
 
 ---
