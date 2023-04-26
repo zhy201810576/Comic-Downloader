@@ -1,0 +1,25 @@
+QLabel {
+    font-size:20px;
+    color:#000000;
+}
+
+QPushButton {
+    font-size:20px;
+    color:#000000;
+    background-color: #FFFFFF;
+    border-radius:0;
+}
+
+QPushButton:hover {
+    font-size:20px;
+    color:#000000;
+    background-color: #e1e1e1;
+    border-radius:0;
+}
+
+QTextBrowser {
+    font-size:16px;
+    color:#000000;
+    border-radius:15px;
+    background-color: qlineargradient(spread:pad, x1:0, y1:0, x2:1, y2:1, stop:0.104478 rgba(155, 188, 180, 255), stop:0.527363 rgba(54, 201, 217, 255), stop:0.955224 rgba(54, 184, 233, 255));
+}
