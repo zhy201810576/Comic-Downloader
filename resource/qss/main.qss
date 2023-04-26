@@ -1,0 +1,45 @@
+QProgressBar#progressTotal {
+    text-align: right;
+    color: black;
+    margin-right: 60px;
+}
+
+QPushButton#pbtn_StartParser {
+    font-size: 12pt;
+}
+
+QPushButton#pbtn_Startdl {
+    font-size: 18pt;
+}
+
+QPushButton#pbtn_sort {
+    font-size: 14pt;
+}
+
+QCheckBox#cbox_All {
+    font-size: 12pt;
+}
+
+QGroupBox {
+    font-size: 12pt;
+    margin-top: 1.4ex;
+}
+
+QLabel#lab_SavePath {
+    font-size: 11pt;
+}
+
+QLabel#lab_Thread {
+    font-size: 11pt;
+}
+
+QPushButton#pbtn_ManualUpdate {
+    font-size: 12pt;
+}
+
+QLabel#lab_Cover {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #e6e6e6;
+    border-radius: 10px;
+}

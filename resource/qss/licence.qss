@@ -1,0 +1,8 @@
+QLabel#lab_License {
+    font-size: 25pt;
+}
+
+QTextBrowser#txt_License {
+    font-size: 12pt;
+    color: black;
+}
