@@ -8,7 +8,7 @@
 <div>
 
 ![GitHub language count](https://img.shields.io/github/languages/count/zhy201810576/Comic-Downloader)
-![GitHub top language](https://img.shields.io/github/languages/top/zhy201810576/Comic-Downloader)
+![GitHub language](https://img.shields.io/badge/language-Python-lightgrey)
 ![GitHub top language](https://img.shields.io/github/languages/top/zhy201810576/Comic-Downloader)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/zhy201810576/Comic-Downloader)
 ![GitHub all releases](https://img.shields.io/github/downloads/zhy201810576/Comic-Downloader/total)
